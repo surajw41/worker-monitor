@@ -1,0 +1,30 @@
+2025-04-17 22:36:00,470 - INFO - Models loaded successfully
+2025-04-17 22:36:02,024 - INFO - Worker Activity Monitor initialized
+2025-04-17 22:36:02,035 - INFO - Starting worker activity monitoring
+2025-04-17 22:36:03,235 - INFO - State changed to: Idle
+2025-04-17 22:36:03,574 - INFO - State changed to: Working
+2025-04-17 22:36:05,588 - INFO - State changed to: Absent
+2025-04-17 22:36:05,797 - INFO - State changed to: Working
+2025-04-17 22:38:17,772 - INFO - Models loaded successfully
+2025-04-17 22:38:19,380 - INFO - Worker Activity Monitor initialized
+2025-04-17 22:38:19,405 - INFO - Starting worker activity monitoring
+2025-04-17 22:38:20,604 - INFO - State changed to: Idle
+2025-04-17 22:38:23,623 - INFO - State changed to: Working
+2025-04-17 22:38:30,949 - INFO - State changed to: Idle
+2025-04-17 22:38:31,425 - INFO - State changed to: Working
+2025-04-17 22:38:31,761 - INFO - State changed to: Absent
+2025-04-17 22:38:31,924 - INFO - State changed to: Working
+2025-04-17 22:38:32,237 - INFO - State changed to: Absent
+2025-04-17 22:38:32,396 - INFO - State changed to: Working
+2025-04-17 22:38:32,555 - INFO - State changed to: Absent
+2025-04-17 22:38:32,747 - INFO - State changed to: Working
+2025-04-17 22:38:36,260 - INFO - State changed to: Absent
+2025-04-17 22:38:36,418 - INFO - State changed to: Working
+2025-04-17 22:38:36,736 - INFO - State changed to: Absent
+2025-04-17 22:38:36,895 - INFO - State changed to: Working
+2025-04-17 22:38:38,958 - INFO - State changed to: Absent
+2025-04-17 22:38:39,116 - INFO - State changed to: Working
+2025-04-17 22:38:42,755 - INFO - State changed to: Absent
+2025-04-17 22:38:42,913 - INFO - State changed to: Working
+2025-04-17 22:38:43,071 - INFO - State changed to: Absent
+2025-04-17 22:38:43,230 - INFO - State changed to: Working

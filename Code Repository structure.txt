@@ -1,0 +1,29 @@
+WorkerActivityMonitor/
+│
+├── app/
+│   ├── __init__.py
+│   ├── gui.py                # Tkinter GUI layout and components
+│   ├── video_handler.py      # Video capture and YOLOv8 detection
+│   ├── monitor.py            # Worker monitoring logic (activity, logging)
+│   ├── logger.py             # Custom logger setup
+│   ├── utils.py              # Utility functions
+│
+├── assets/
+│   ├── icons/                # Any icons/images used in the GUI
+│   └── sounds/               # Alert sounds if used
+│
+├── models/
+│   └── yolov8n.pt            # Pre-trained YOLOv8 model
+│
+├── logs/
+│   └── activity_log.csv      # Logging output
+│
+├── reports/
+│   └── ...                   # Exported activity reports
+│
+├── config/
+│   └── settings.json         # Optional: Configurable thresholds, settings
+│
+├── main.py                   # Entry point that launches the Tkinter app
+├── requirements.txt          # Dependencies for pip install
+└── README.md                 # Project overview

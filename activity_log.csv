@@ -1,0 +1,14 @@
+2025-04-20 16:19:43,SYSTEM,Monitoring started
+2025-04-20 16:19:46,Worker 1,Working activity detected
+2025-04-20 16:20:02,Worker 3,Working activity detected
+2025-04-20 16:20:09,Worker 4,Working activity detected
+2025-04-20 16:20:11,Worker 5,Working activity detected
+2025-04-20 16:20:11,Worker 6,Working activity detected
+2025-04-20 16:20:23,Worker 6,Idle state detected
+2025-04-20 16:20:41,Worker 6,Working activity detected
+2025-04-20 16:20:46,Worker 6,Idle state detected
+2025-04-20 16:20:48,SYSTEM,Monitoring stopped
+2025-04-20 16:23:03,SYSTEM,Monitoring started
+2025-04-20 16:23:08,Worker 1,Working activity detected
+2025-04-20 16:23:17,Worker 1,Idle state detected
+2025-04-20 16:23:20,SYSTEM,Monitoring stopped
